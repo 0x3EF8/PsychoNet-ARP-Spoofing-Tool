@@ -1,7 +1,7 @@
 
 #  PsychoNet - ARP Spoofing Tool
 
-# ![PsychoNet](assets/icon.png) 
+# ![PsychoNet](src/assets/icon.png) 
 
 ## Description
 
